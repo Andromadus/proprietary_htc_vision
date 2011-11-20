@@ -18,6 +18,7 @@
 PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libcamera.so:obj/lib/libcamera.so \
     vendor/htc/vision/proprietary/libaudioalsa.so:obj/lib/libaudioalsa.so
+    vendor/htc/vision/proprietary/liba2dp.so:obj/lib/liba2dp.so 
 
 # All the blobs necessary for passion
 PRODUCT_COPY_FILES += \
@@ -50,6 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/lsc_camera:/system/bin/lsc_camera \
     vendor/htc/vision/proprietary/rmt_storage:/system/bin/rmt_storage \
     vendor/htc/vision/proprietary/vpimg:/system/etc/vpimg \
-    vendor/htc/vision/proprietary/liba2dp.so:/system/lib/liba2dp.so 
+    
 
 
