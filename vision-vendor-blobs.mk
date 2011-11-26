@@ -18,7 +18,7 @@
 PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libcamera.so:obj/lib/libcamera.so \
     vendor/htc/vision/proprietary/libaudioalsa.so:obj/lib/libaudioalsa.so \
-    vendor/htc/vision/proprietary/liba2dp.so:obj/lib/liba2dp.so 
+    vendor/htc/vision/proprietary/liba2dp.so:obj/lib/liba2dp.so
 
 # All the blobs necessary for passion
 PRODUCT_COPY_FILES += \
