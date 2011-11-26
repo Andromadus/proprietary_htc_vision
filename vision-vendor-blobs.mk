@@ -17,8 +17,8 @@
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libcamera.so:obj/lib/libcamera.so \
-    vendor/htc/vision/proprietary/libaudioalsa.so:obj/lib/libaudioalsa.so \
-    vendor/htc/vision/proprietary/liba2dp.so:obj/lib/liba2dp.so
+    vendor/htc/vision/proprietary/libaudioalsa.so:obj/lib/libaudioalsa.so
+#    vendor/htc/vision/proprietary/liba2dp.so:obj/lib/liba2dp.so
 
 # All the blobs necessary for passion
 PRODUCT_COPY_FILES += \
@@ -30,8 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/awb_camera:/system/bin/awb_camera \
     vendor/htc/vision/proprietary/bma150_usr:/system/bin/bma150_usr \
     vendor/htc/vision/proprietary/htc_ebdlogd:/system/bin/htc_ebdlogd \
-    vendor/htc/vision/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
-    vendor/htc/vision/proprietary/libaudioeq.so:/system/lib/libaudioeq.so \
     vendor/htc/vision/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vision/proprietary/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
     vendor/htc/vision/proprietary/libganril.so:/system/lib/libganril.so \
@@ -51,6 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/lsc_camera:/system/bin/lsc_camera \
     vendor/htc/vision/proprietary/rmt_storage:/system/bin/rmt_storage \
     vendor/htc/vision/proprietary/vpimg:/system/etc/vpimg \
-    
-
+    vendor/htc/vision/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so
+#   vendor/htc/vision/proprietary/libaudioeq.so:/system/lib/libaudioeq.so \
 
