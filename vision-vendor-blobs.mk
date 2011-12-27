@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/AudioBTID.csv:/system/etc/AudioBTID.csv \
     vendor/htc/vision/proprietary/A1026_CFG.csv:/system/etc/A1026_CFG.csv \
     vendor/htc/vision/proprietary/AdieHWCodec.csv:/system/etc/AdieHWCodec.csv \
-    vendor/htc/vision/proprietary/AdieHWCodec_WA.csv:/system/etc/AdieHWCodec_WA.csv \ 
+    vendor/htc/vision/proprietary/AdieHWCodec_WA.csv:/system/etc/AdieHWCodec_WA.csv \
     vendor/htc/vision/proprietary/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
     vendor/htc/vision/proprietary/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
     vendor/htc/vision/proprietary/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
