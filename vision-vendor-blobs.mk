@@ -44,5 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
     vendor/htc/vision/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/vision/proprietary/libmmipl.so:/system/lib/libmmipl.so \
-    vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so
-
+    vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
+    vendor/htc/vision/proprietary/libcamera.so:/system/lib/libcamera.so \
+    vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so 
