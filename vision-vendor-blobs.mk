@@ -45,4 +45,13 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/vision/proprietary/libcamera.so:/system/lib/libcamera.so \
-    vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so 
+    vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
+    vendor/htc/vision/proprietary/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
+    vendor/htc/vision/proprietary/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+    vendor/htc/vision/proprietary/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+    vendor/htc/vision/proprietary/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/htc/vision/proprietary/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+    vendor/htc/vision/proprietary/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+    vendor/htc/vision/proprietary/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
+    vendor/htc/vision/proprietary/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+    vendor/htc/vision/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw
