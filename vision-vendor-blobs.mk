@@ -54,4 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/htc/vision/proprietary/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/htc/vision/proprietary/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-    vendor/htc/vision/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw
+    vendor/htc/vision/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
+    vendor/htc/vision/proprietary/lib/libv8.so:/system/lib/libv8.so \
+    vendor/htc/vision/proprietary/lib/libv8.so:obj/lib/libv8.so
