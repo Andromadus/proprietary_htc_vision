@@ -46,6 +46,13 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/vision/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
+    vendor/htc/vision/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
+    vendor/htc/vision/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
+    vendor/htc/vision/proprietary/libcamera_client.so:/system/lib/libcamera_client.so \
+    vendor/htc/vision/proprietary/libcameraface.so:/system/lib/libcameraface.so \
+    vendor/htc/vision/proprietary/libcamerapp.so:/system/lib/libcamerapp.so \
+    vendor/htc/vision/proprietary/libchromatix_s5k4e1gx_default_video.so:/system/lib/libchromatix_s5k4e1gx_default_video.so \
+    vendor/htc/vision/proprietary/libchromatix_s5k4e1gx_preview.so:/system/lib/libchromatix_s5k4e1gx_preview.so \
     vendor/htc/vision/proprietary/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/htc/vision/proprietary/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/htc/vision/proprietary/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
