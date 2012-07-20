@@ -65,5 +65,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libwvm.so:/system/lib/libwvm.so \
     vendor/htc/vision/proprietary/libv8.so:/system/lib/libv8.so \
     vendor/htc/vision/proprietary/libv8.so:obj/lib/libv8.so \
-    vendor/htc/vision/proprietary/libpatts_engine_jni_api.so:obj/lib/libpatts_engine_jni_api.so \
-    vendor/htc/vision/proprietary/libttscompat.so:obj/lib/libttscompat.so
+    vendor/htc/vision/proprietary/libpatts_engine_jni_api.so:/system/lib/libpatts_engine_jni_api.so \
+    vendor/htc/vision/proprietary/libttscompat.so:/system/lib/libttscompat.so
