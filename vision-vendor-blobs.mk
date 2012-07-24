@@ -63,6 +63,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/htc/vision/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/htc/vision/proprietary/libwvm.so:/system/lib/libwvm.so \
+    vendor/htc/vision/proprietary/libWVStreamControlAPI_L3.so:/system/lib/libWVStreamControlAPI_L3.so \
+    vendor/htc/vision/proprietary/libdrmwvmplugin.so:/system/lib/drm/libdrmwvmplugin.so \
+    vendor/htc/vision/proprietary/libwvdrm_L3.so:/system/lib/libwvdrm_L3.so \
     vendor/htc/vision/proprietary/libv8.so:/system/lib/libv8.so \
     vendor/htc/vision/proprietary/libv8.so:obj/lib/libv8.so \
     vendor/htc/vision/proprietary/libpatts_engine_jni_api.so:/system/lib/libpatts_engine_jni_api.so \
