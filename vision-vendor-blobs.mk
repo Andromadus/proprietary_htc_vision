@@ -34,9 +34,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/vision/proprietary/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/vision/proprietary/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
+    vendor/htc/vision/proprietary/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/htc/vision/proprietary/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/vision/proprietary/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vision/proprietary/libC2D2.so:/system/lib/libC2D2.so \
+    vendor/htc/vision/proprietary/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
     vendor/htc/vision/proprietary/libOpenVG.so:/system/lib/libOpenVG.so \
     vendor/htc/vision/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/vision/proprietary/libgemini.so:/system/lib/libgemini.so \
