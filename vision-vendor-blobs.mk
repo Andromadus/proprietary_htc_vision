@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/vision/proprietary/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
-    vendor/htc/vision/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/vision/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
     vendor/htc/vision/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
