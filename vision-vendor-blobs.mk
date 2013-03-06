@@ -21,10 +21,12 @@ PRODUCT_COPY_FILES += \
 # All the blobs necessary for vision
 PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/akmd:/system/bin/akmd \
+    vendor/htc/vision/proprietary/gpu_dcvsd:/system/bin/gpu_dcvsd \
     vendor/htc/vision/proprietary/bma150_usr:/system/bin/bma150_usr \
     vendor/htc/vision/proprietary/htc_ebdlogd:/system/bin/htc_ebdlogd \
     vendor/htc/vision/proprietary/logcat2:/system/bin/logcat2 \
     vendor/htc/vision/proprietary/rmt_storage:/system/bin/rmt_storage \
+    vendor/htc/vision/proprietary/ProfilerPlaybackTools.apk:/system/app/ProfilerPlaybackTools.apk \
     vendor/htc/vision/proprietary/AudioBTID.csv:/system/etc/AudioBTID.csv \
     vendor/htc/vision/proprietary/A1026_CFG.csv:/system/etc/A1026_CFG.csv \
     vendor/htc/vision/proprietary/AdieHWCodec.csv:/system/etc/AdieHWCodec.csv \
@@ -35,10 +37,16 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/vision/proprietary/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
     vendor/htc/vision/proprietary/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
+    vendor/htc/vision/proprietary/libplayback_adreno200.so:/system/lib/libplayback_adreno200.so \
     vendor/htc/vision/proprietary/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/vision/proprietary/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vision/proprietary/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/vision/proprietary/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
+    vendor/htc/vision/proprietary/libCB.so:/system/lib/libCB.so \
+    vendor/htc/vision/proprietary/libOpenCL.so:/system/lib/libOpenCL.so \
+    vendor/htc/vision/proprietary/libc2d2_a3xx.so:/system/lib/libc2d2_a3xx.so \
+    vendor/htc/vision/proprietary/libllvm-a3xx.so:/system/lib/libllvm-a3xx.so \
+    vendor/htc/vision/proprietary/libsc-a3xx.so:/system/lib/libsc-a3xx.so \
     vendor/htc/vision/proprietary/libOpenVG.so:/system/lib/libOpenVG.so \
     vendor/htc/vision/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/vision/proprietary/libgemini.so:/system/lib/libgemini.so \
