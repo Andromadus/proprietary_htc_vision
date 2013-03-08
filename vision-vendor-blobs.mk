@@ -22,8 +22,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/akmd:/system/bin/akmd \
     vendor/htc/vision/proprietary/bma150_usr:/system/bin/bma150_usr \
-    vendor/htc/vision/proprietary/htc_ebdlogd:/system/bin/htc_ebdlogd \
-    vendor/htc/vision/proprietary/logcat2:/system/bin/logcat2 \
     vendor/htc/vision/proprietary/rmt_storage:/system/bin/rmt_storage \
     vendor/htc/vision/proprietary/AudioBTID.csv:/system/etc/AudioBTID.csv \
     vendor/htc/vision/proprietary/A1026_CFG.csv:/system/etc/A1026_CFG.csv \
