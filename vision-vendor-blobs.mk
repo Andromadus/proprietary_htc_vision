@@ -69,5 +69,3 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libpatts_engine_jni_api.so:/system/lib/libpatts_engine_jni_api.so \
     vendor/htc/vision/proprietary/libttscompat.so:/system/lib/libttscompat.so \
     vendor/htc/vision/proprietary/libposteffect.so:/system/lib/libposteffect.so \
-    vendor/htc/vision/proprietary/libjni_latinime.so:obj/lib/libjni_latinime.so \
-    vendor/htc/vision/proprietary/libjni_latinime.so:system/lib/libjni_latinime.so
