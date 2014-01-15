@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
-    vendor/htc/vision/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
+    vendor/htc/vision/proprietary/camera.vendor.msm7x30.so:/system/lib/hw/camera.vendor.msm7x30.so \
     vendor/htc/vision/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/vision/proprietary/libcameraface.so:/system/lib/libcameraface.so \
     vendor/htc/vision/proprietary/libcamerapp.so:/system/lib/libcamerapp.so \
